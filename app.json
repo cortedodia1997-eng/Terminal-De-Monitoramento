@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "name": "Ultra Elite Pro",
+    "slug": "ultra-elite-pro",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "android": {
+      "package": "com.ultraelite.app",
+      "permissions": ["CAMERA", "RECORD_AUDIO"]
+    }
+  }
+}

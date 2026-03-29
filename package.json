@@ -1,0 +1,11 @@
+{
+  "name": "ultra-elite-apk",
+  "version": "1.0.0",
+  "main": "node_modules/expo/AppEntry.js",
+  "dependencies": {
+    "expo": "~50.0.14",
+    "react": "18.2.0",
+    "react-native": "0.73.6",
+    "react-native-webview": "13.6.4"
+  }
+}
